@@ -1,0 +1,9 @@
+samples/
+*.wav
+*.mp4
+*.jpg
+.env/
+.DS_Store
+__MACOSX/
+archive/
+.vscode

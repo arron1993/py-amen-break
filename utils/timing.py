@@ -1,0 +1,1 @@
+STEPS_PER_BAR = 8
